@@ -4,6 +4,7 @@ parts:
   - caption: 基本信息
     chapters:
       - file: introduction/README.md
-  - caption: 未分类
+  - caption: 公开档案
     chapters:
-      - file: standardization/README.md
+      - url: https://quanttide.github.io/quanttide-profile-of-innovation/domains/README.html
+        title: 量潮创新档案
